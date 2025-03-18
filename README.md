@@ -4,7 +4,6 @@
 Actividad Todo list, un crud realizado con los siguientes objetivos:
 
 - ✅ Crud.
-- ✅ Realizado con TypeScript, SCSS y HTML
 - ✅ Permite agregar tareas, modificarlas, editarlas y marcarlas como realizadas.
 
 ## 🚀 Instalación y Ejecución
