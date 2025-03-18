@@ -5,6 +5,7 @@ Actividad Todo list, un crud realizado con los siguientes objetivos:
 
 - ✅ Crud.
 - ✅ Permite agregar tareas, modificarlas, editarlas y marcarlas como realizadas.
+- ✅ Conexion a Firebase.
 
 ## 🚀 Instalación y Ejecución
 ### 1️⃣ Clonar el Repositorio  
